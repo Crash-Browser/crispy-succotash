@@ -1,6 +1,10 @@
 ---
 name: Question / Help
 about: Ask a question about Scrapy or ask for help with your Scrapy code.
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 Thanks for taking an interest in Scrapy!

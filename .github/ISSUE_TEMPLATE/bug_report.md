@@ -1,6 +1,10 @@
 ---
 name: Bug report
 about: Report a problem to help us improve
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!--
